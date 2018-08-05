@@ -1,0 +1,52 @@
+body, html {
+    font-family: sans-serif;
+    margin: 20px;
+    text-align: center;
+    background-color: gold; 
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 45px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+img {
+    width: 250px;
+}
+
+form p {
+    margin: 10px;
+}
+
+li p {
+    margin-bottom: 8px;
+}
+
+li {
+    list-style: none;
+    margin: 5px 20px 5px 20px;
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background: #9B8300;
+}
+
+button {
+    background-color: cadetblue;
+    border-style: none;
+    border: 1px solid black;
+}
+
+#uneaten-burgers, #eaten-burgers {
+    display: inline-block;
+}
+
+#uneaten-burgers li {
+    background: #FFE764;
+}   
+
+#eaten-burgers {
+    text-decoration: line-through;
+}
