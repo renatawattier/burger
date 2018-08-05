@@ -18,8 +18,14 @@
   "homepage": "https://github.com/renatawattier/burger#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "bootstrap": "^4.1.3",
+    "export": "^0.1.337",
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
-    "mysql": "^2.16.0"
-  }
+    "module": "^1.2.5",
+    "mysql": "^2.16.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "keywords": []
 }
